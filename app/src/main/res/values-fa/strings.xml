@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">پروتکل‌های پزشکی</string>
+    <string name="home_title">دسته‌بندی‌ها</string>
+    <string name="search_hint">جستجوی پروتکل…</string>
+    <string name="dose_calculator">محاسبه‌گر دوز</string>
+    <string name="settings">تنظیمات</string>
+    <string name="no_protocols">هنوز محتوایی وارد نشده — از بخش تنظیمات محتوای خود را وارد کنید.</string>
+    <string name="import_content">وارد کردن محتوا (JSON)</string>
+    <string name="import_success">%1$d دسته و %2$d پروتکل وارد شد.</string>
+    <string name="import_failure">فایل خوانده نشد — قالب آن را بررسی کنید.</string>
+    <string name="weight_kg">وزن (کیلوگرم)</string>
+    <string name="dose_per_kg">دوز به ازای کیلوگرم (mg/kg)</string>
+    <string name="frequency_per_day">تعداد نوبت در روز</string>
+    <string name="calculated_dose">دوز هر نوبت</string>
+    <string name="daily_total">مجموع روزانه</string>
+    <string name="calculator_disclaimer">فقط بر اساس مقادیر واردشده محاسبه می‌کند — پیش از استفاده بالینی با یک منبع معتبر تطبیق دهید.</string>
+    <string name="settings_no_content_notice">این برنامه بدون محتوای نسخه‌نویسی ارائه می‌شود. یک فایل JSON (طبق فرمت موجود در README) وارد کنید تا با پروتکل‌های خودتان پر شود.</string>
+</resources>

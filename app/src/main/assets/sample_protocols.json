@@ -1,0 +1,32 @@
+{
+  "categories": [
+    {
+      "title": "نمونه - قلب و عروق",
+      "colorHex": "#0F6E5E",
+      "protocols": [
+        {
+          "title": "نمونه پروتکل (این را جایگزین کنید)",
+          "summary": "یک رکورد نمونه برای نشان دادن ساختار برنامه — محتوای واقعی نیست.",
+          "sections": [
+            { "label": "تعریف", "content": "این متن فقط یک نمونه است. محتوای واقعی خود را از طریق Settings → Import content وارد کنید (به README مراجعه کنید)." },
+            { "label": "تشخیص", "content": "بخش نمونه — با محتوای خودتان جایگزین کنید." },
+            { "label": "درمان", "content": "بخش نمونه — با محتوای خودتان جایگزین کنید." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sample category",
+      "colorHex": "#8E3B42",
+      "protocols": [
+        {
+          "title": "Sample protocol (replace me)",
+          "summary": "A placeholder record showing the app's structure — not real content.",
+          "sections": [
+            { "label": "Definition", "content": "Placeholder text. Import your own JSON from Settings, or edit this file directly and reinstall." }
+          ]
+        }
+      ]
+    }
+  ]
+}
